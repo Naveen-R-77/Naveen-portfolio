@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Professional Portfolio
 
 A modern, responsive portfolio website built with Next.js, TypeScript, Tailwind CSS, and Radix UI. Showcase your projects, skills, and experience with a beautiful, customizable design.
@@ -63,3 +64,6 @@ The contact form uses [EmailJS](https://www.emailjs.com/). Configure your servic
 ---
 
 **Made with ❤️ using Next.js and Tailwind CSS.**
+=======
+# Naveen-portfolio
+>>>>>>> 85cec4e5d6c17aa11962f508b947b0cee8d1a947
